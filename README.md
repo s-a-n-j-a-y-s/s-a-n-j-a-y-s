@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** specializing in the design and implementation of large-scale, distributed backend systems. Currently, I'm part of the core engineering team at **Gen Digital (Norton Lifelock)**, where I focus on:
+I am a **Software Engineer** specializing in the design and implementation of large-scale, distributed backend systems. Currently, I'm part of the data platform engineering team at **Gen Digital (Norton Lifelock)**, where I focus on:
 
 * 🚀 **Scalability:** Optimizing high-throughput identity protection services to handle millions of real-time events.
 * 🏗️ **Architecture:** Designing resilient microservices using **Java 17**, **Spring Boot**, and **Apache Kafka**.
@@ -29,23 +29,15 @@ I am a **Software Engineer** specializing in the design and implementation of la
 
 ---
 
-### 📊 Engineering Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-a-n-j-a-y-s&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjay's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-n-j-a-y-s&layout=compact&theme=dark&hide_border=false" alt="Sanjay's Top Languages" height="180px" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/sanjaykumarsenthilvel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:s.sanjaykumarsenthilvel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-*“Complexity is the enemy of execution.” – Focusing on clean, maintainable, and scalable code.*
+*“Complexity is the enemy of execution.” – Focusing on clean, maintainable, scalable code and driving it with AI.*
