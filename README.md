@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** specializing in the design and implementation of large-scale, distributed backend systems. Currently, I'm part of the data platform engineering team at **Gen Digital (Norton Lifelock)**, where I focus on:
+I am a **Senior Software Engineer** specializing in the design and implementation of large-scale, distributed backend systems. Currently, I'm part of the data platform engineering team at **Gen Digital (Norton Lifelock)**, where I focus on:
 
 * 🚀 **Scalability:** Optimizing high-throughput identity protection services to handle millions of real-time events.
 * 🏗️ **Architecture:** Designing resilient microservices using **Java 17**, **Spring Boot**, and **Apache Kafka**.
